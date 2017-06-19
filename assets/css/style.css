@@ -1,0 +1,14 @@
+.imageblock {
+  float: left; 
+  margin: 15px;
+}
+
+body {
+  background-image: url("https://www.thinglink.com/scene/768500769979629569");
+  background-size: cover;
+  
+  font-family: 'Sigmar One', cursive;
+}
+
+h1 {
+  font-family: 'Sigmar One', cursive;
